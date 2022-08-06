@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_login">Iniciar Sessão</string>
+    <string name="placeholder_email">Insera aqui o seu email</string>
+    <string name="label_keep_logged">Manter sessão iniciada?</string>
+    <string name="label_no_account">Ainda não tem conta?</string>
+    <string name="label_signup">Registrar</string>
+    <string name="placeholder_password">Insira aqui a sua senha</string>
+    <string name="label_password">Senha</string>
+    <string name="label_name">Nome</string>
+    <string name="label_confirm_pwd">Confirmar Senha</string>
+    <string name="placeholder_confirm_pwd">Confirme a sua senha</string>
+    <string name="placeholder_name">Insira aqui o seu nome</string>
+    <string name="error_confirm_pwd_not_match">A sua senha não é igual à senha de confirmação.</string>
+    <string name="error_terms_not_accepted">Você não leu e aceitou os Termos e Política de Privacidade.</string>
+    <string name="error_empty_fields">Campos vazios, deve preencher todos os campos.</string>
+    <string name="label_settings">Configurações</string>
+    <string name="label_users">Usuários</string>
+    <string name="menu_users">Ver Usuários</string>
+    <string name="placeholder_title">Insira o título</string>
+    <string name="placeholder_image_link">Insira o link da imagem</string>
+    <string name="placeholder_description">Insira a descrição do exercício</string>
+    <string name="placeholder_category">Escolha a categoria</string>
+    <string name="placeholder_video_link">Insira o link para o vídeo</string>
+    <string name="label_register">Registrar</string>
+    <string name="placeholder_genders">Escolha o seu género</string>
+    <string name="label_user">Usuário</string>
+    <string name="label_click_link">Clique no link para ver o vídeo</string>
+</resources>

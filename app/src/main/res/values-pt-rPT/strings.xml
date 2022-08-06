@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_login">Iniciar Sessão</string>
+    <string name="placeholder_email">Insere aqui o teu email</string>
+    <string name="label_keep_logged">Manter sessão iniciada?</string>
+    <string name="label_no_account">Ainda não tens conta?</string>
+    <string name="label_signup">Registar</string>
+    <string name="placeholder_password">Insere aqui a tua palavra passe</string>
+    <string name="label_password">Palavra Passe</string>
+    <string name="label_name">Nome</string>
+    <string name="placeholder_confirm_pwd">Confirma a tua palavra passe</string>
+    <string name="placeholder_name">Insere aqui o teu nome</string>
+    <string name="error_confirm_pwd_not_match">A tua palavra passe não é igual à palavra passe de confirmação.</string>
+    <string name="error_terms_not_accepted">Tu não leste e aceitas-te os Termos e Política de Privacidade.</string>
+    <string name="error_empty_fields">Campos vazios, deves preencher todos os campos.</string>
+    <string name="label_settings">Definições</string>
+</resources>

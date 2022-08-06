@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_login">Iniciar Sessão</string>
+    <string name="placeholder_email">Insere aqui o teu email</string>
+    <string name="label_keep_logged">Manter sessão iniciada?</string>
+    <string name="label_no_account">Ainda não tens conta?</string>
+    <string name="label_signup">Registar</string>
+    <string name="placeholder_password">Insere aqui a tua palavra passe</string>
+    <string name="label_password">Palavra Passe</string>
+    <string name="error_networkerror">Sem conexão à internet.\nPor favor verifque a sua conexão à internet!</string>
+    <string name="error_servererror">Erro inesperado do servidor.\n Por favor tente mais tarde!</string>
+    <string name="error_parsingerror">Erro de parsing.\nPor favor tente mais tarde!</string>
+    <string name="error_timeouterror">Tempo de conexão esgotou-se.\nPor favor verifique a sua conexão!</string>
+    <string name="error_defaulterror">Erro ao tentar conectar ao servidor.</string>
+    <string name="label_name">Nome</string>
+    <string name="label_birthdate">Data de Nascimento</string>
+    <string name="label_read_accept">Eu li e aceito os</string>
+    <string name="label_terms">Termos e Política de Privacidade</string>
+    <string name="label_confirm_pwd">Confirmar Palavra Passe</string>
+    <string name="placeholder_confirm_pwd">Confirma tua palavra passe</string>
+    <string name="label_day">Dia</string>
+    <string name="placeholder_name">Insere aqui o teu nome</string>
+    <string name="label_month">Mês</string>
+    <string name="label_year">Ano</string>
+    <string name="label_gender">Gênero</string>
+    <string name="error_empty_fields">Campos vazios, deves preencher todos os campos.</string>
+    <string name="error_invalid_email">Email inválido.</string>
+    <string name="error_confirm_pwd_not_match">A tua palavra passe não é igual à palavra passe de confirmação.</string>
+    <string name="error_invalid_date">Data inválida.</string>
+    <string name="error_terms_not_accepted">Tu não leste e aceitas-te os Termos e Política de Privacidade.</string>
+    <string name="label_initial_quizzes">Questionários Iniciais</string>
+    <string name="label_quarterly_quizzes">Questionários Trimestrais</string>
+    <string name="label_daily_quizzes">Questionários Diários</string>
+    <string name="label_next">Próximo</string>
+    <string name="label_logout">Terminar Sessão</string>
+    <string name="label_settings">Definições</string>
+    <string name="label_profile">Perfil</string>
+    <string name="label_complement">Complemento</string>
+    <string name="label_close">Fechar</string>
+    <string name="label_open">Abrir</string>
+    <string name="menu_plan">Ver plano</string>
+    <string name="menu_exercises">Ver exercícios</string>
+    <string name="menu_goals">Ver metas</string>
+    <string name="label_goals">Metas</string>
+    <string name="label_exercises">Exercícios</string>
+
+    <string-array name="steps">
+        <item>Passo Vigoroso</item>
+        <item>Passo Moderado</item>
+        <item>Passo lento</item>
+    </string-array>
+
+    <string-array name="borg">
+        <item>Muito Fácil</item>
+        <item>Fácil</item>
+        <item>Relativamente Fácil</item>
+        <item>Relativamente Cansativo</item>
+        <item>Cansativo</item>
+        <item>Muito Cansativo</item>
+        <item>Exaustivo</item>
+    </string-array>
+    <string name="menu_register_exercises">Registar Exercícios</string>
+    <string name="label_users">Utilizadores</string>
+    <string name="menu_users">Ver Utilizadores</string>
+    <string name="label_title">Título</string>
+    <string name="placeholder_title">Insere o título</string>
+    <string name="label_description">Descrição</string>
+    <string name="placeholder_description">Insere a descrição do exercício</string>
+    <string name="label_image_link">Imagem (link)</string>
+    <string name="placeholder_image_link">Insere o link da imagem</string>
+    <string name="label_category">Categoria</string>
+    <string name="placeholder_category">Escolhe a categoria</string>
+    <string name="label_video_link">Vídeo (link)</string>
+    <string name="placeholder_video_link">Insere o link para o vídeo</string>
+    <string name="label_register">Registar</string>
+    <string name="placeholder_genders">Escolhe o teu género</string>
+    <string name="label_associate_exercise">Associar Exercício</string>
+    <string name="label_details">Detalhes</string>
+    <string name="label_position">Cargo</string>
+    <string name="label_goal_steps">Objetivo de passos</string>
+    <string name="label_goal_sleep">Objetivo de descanso</string>
+    <string name="label_goal_kal">Objetivo de calorias</string>
+    <string name="label_choose_exercise">Escolha um exercício</string>
+    <string name="label_exercise">Exercício</string>
+    <string name="label_user">Utilizador</string>
+    <string name="label_date">Data</string>
+    <string name="label_time">Hórario</string>
+    <string name="label_associate">Associar</string>
+    <string name="menu_edit_exercises">Editar Exercícios</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Eliminar</string>
+    <string name="label_image">Imagem ilustrativa</string>
+    <string name="label_video">Vídeo ilustrativo</string>
+    <string name="label_click_link">Clica no link para ver o vídeo</string>
+</resources>
